@@ -1,7 +1,9 @@
 # Food-Festival
 
 ## Description
-Are you about to drop the next big breakthrough in tech? Did you just learn how to turn on a computer? No matter your level of experience, join us to Talk Tech on the hippest tech blog out there! Interact with the next Stephen Hawking or your grandpa on databases, dev ops, algorithms, and more! 
+Check out our regional Food Festival! This app will guide you through the festival, so stay glued to your phone as you chomp your way along!
+
+This app was created by Trilogy Education Services, a 2U, Inc. brand, and SarahWylie improved the performance.
 
 ## Table of Contents
 * [Usage](#usage)
