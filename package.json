@@ -1,8 +1,8 @@
 {
-  "name": "food-festival",
+  "name": "y",
   "version": "1.0.0",
   "description": "## Description Are you about to drop the next big breakthrough in tech? Did you just learn how to turn on a computer? No matter your level of experience, join us to Talk Tech on the hippest tech blog out there! Interact with the next Stephen Hawking or your grandpa on databases, dev ops, algorithms, and more!",
-  "main": "index.js",
+  "main": "assets/js/script.js",
   "scripts": {
     "webpack": "webpack --watch",
     "build": "webpack",
@@ -26,11 +26,12 @@
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4",
-    "webpack-pwa-manifest": "^4.3.0"
+    "webpack-pwa-manifest": "^4.3.0",
+    "image-webpack-loader": "^1.8.0"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "image-webpack-loader": "^8.1.0",
+    "image-webpack-loader": "^1.8.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.0",
     "save": "^2.4.0"
