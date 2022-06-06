@@ -19,7 +19,7 @@ Pull on your fat pants and waddle over to our world-famous regional [Food Festiv
 Visit the [Food Festival](https://sarahwylie.github.io/Food-Festival/) app, wipe off your drool, and start munching!
 
 ## Output:
-Th
+![Food Festival](https://user-images.githubusercontent.com/90208612/172202917-d7fd339a-b2bc-4b2a-b2d4-55444eede94e.png)
 
 ## Tests
 No tests were used to create this project.
